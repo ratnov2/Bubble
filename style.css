@@ -1,0 +1,21 @@
+body{
+  
+}
+.game{
+  margin-left: 300px;
+  width: 525px;
+  height: 700px;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+.bolls{
+  width: 29px;
+  height: 29px;
+  border:1px solid black;
+  border-radius: 50%;
+}
+.marginLeftClass{
+  margin-left: 15px;
+}
